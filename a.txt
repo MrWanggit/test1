@@ -1,4 +1,6 @@
+import java.util.Date;
 package com.qf.sss;
-static void main(String[] arge) {
-
+public static void main(String[] arge) {
+	System.out.println();
 }
+hahah123
