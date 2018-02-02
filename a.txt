@@ -1,4 +1,5 @@
 import java.util.Date;
+package com.qf.sss;
 public static void main(String[] arge) {
 	System.out.println();
 }
